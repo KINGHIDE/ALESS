@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hide/AutoTrade/build",
+  "command": "/usr/bin/c++ -DJSON_DIAGNOSTICS=0 -DJSON_USE_IMPLICIT_CONVERSIONS=1 -DUSE_C10D_GLOO -DUSE_C10D_NCCL -DUSE_DISTRIBUTED -DUSE_RPC -DUSE_TENSORPIPE -isystem /home/hide/libtorch/include -isystem /home/hide/libtorch/include/torch/csrc/api/include -isystem /usr/local/cuda/include -g -D_GLIBCXX_USE_CXX11_ABI=1 -std=gnu++14 -o CMakeFiles/AutoTrade.dir/main.cpp.o -c /home/hide/AutoTrade/main.cpp",
+  "file": "/home/hide/AutoTrade/main.cpp"
+}
+]
